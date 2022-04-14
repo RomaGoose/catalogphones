@@ -1,0 +1,17 @@
+C:\С++\Роман\c#\catalog\catalog\bin\Debug\catalog.exe.config
+C:\С++\Роман\c#\catalog\catalog\bin\Debug\catalog.exe
+C:\С++\Роман\c#\catalog\catalog\bin\Debug\catalog.pdb
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.csproj.AssemblyReference.cache
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.csproj.SuggestedBindingRedirects.cache
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.mainform.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.Properties.Resources.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.csproj.GenerateResource.cache
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.csproj.CoreCompileInputs.cache
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.exe
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.pdb
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.iphone.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.samsung.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.trolley.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.phoneinfo.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.Filtr.resources
+C:\С++\Роман\c#\catalog\catalog\obj\Debug\catalog.liked.resources
